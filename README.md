@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Silent1killer
-- 👀 I’m interested in html
-- 🌱 I’m currently learning bca
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me planetearth68u@gmail.com
 - 😄 Pronouns: ...

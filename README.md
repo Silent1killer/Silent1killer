@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Silent1killer
+- 👋 Hi, I’m @Azeem
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me planetearth68u@gmail.com
+- 📫 How to reach me abdazeem987@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
